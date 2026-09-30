@@ -434,23 +434,3 @@ The student model can eventually be used not only as a binary fault detector, bu
 
 This provides a bridge between **classical VLSI CAD algorithms** and **machine-learning-assisted EDA**.
 
-# Author
-
-**Suresh Kumar**
-
-M.Tech — Systems & Control Engineering, IIT Bombay
-
-Interests:
-
-- VLSI Design
-- Design-for-Test
-- ATPG
-- Formal Verification
-- RTL Design
-- Digital VLSI
-- Machine Learning for EDA
-- Hardware-Aware AI
-
-GitHub: https://github.com/suresh-vlsi
-
-Project: https://github.com/suresh-vlsi/atpg-fault-detection-distillation
