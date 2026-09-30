@@ -54,3 +54,34 @@ The distilled model provides a compact alternative for fault detection.
 ---
 
 # Generated Outputs
+models/
+├── teacher_model.pkl
+├── teacher_features.pkl
+├── student_model.pkl
+└── student_features.pkl
+
+dataset/
+├── student_distillation_results.csv
+├── student_evaluation_results.csv
+└── final_demo_results.csv
+
+
+---
+
+# Final Demo
+
+The complete pipeline executes:
+ATPG Generation
+|
+Fault Simulation
+|
+Dataset Creation
+|
+Teacher Training
+|
+Knowledge Distillation
+|
+Student Inference
+
+
+The final demo successfully performs fault detection using the distilled student model.
