@@ -71,17 +71,7 @@ dataset/
 # Final Demo
 
 The complete pipeline executes:
-ATPG Generation
-|
-Fault Simulation
-|
-Dataset Creation
-|
-Teacher Training
-|
-Knowledge Distillation
-|
-Student Inference
+ATPG Generation --> Fault Simulation --> Dataset Creation --> Teacher Training--> Knowledge Distillation--> Student Inference
 
 
 The final demo successfully performs fault detection using the distilled student model.
