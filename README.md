@@ -454,7 +454,3 @@ Interests:
 GitHub: https://github.com/suresh-vlsi
 
 Project: https://github.com/suresh-vlsi/atpg-fault-detection-distillation
-
-# License
-
-This project is intended for academic, educational, and research purposes.
